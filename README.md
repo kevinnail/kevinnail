@@ -8,7 +8,7 @@ Email me at kevin@kevinnail.com
 
 I am into and do a lot of stuff- check out my online world:
 
--   [My Linkedin](edin.com/in/kevinnail/)
+-   [My Linkedin](https://www.linkedin.com/in/kevinnail/)
 -   [kevinnail.com](https://www.kevinnail.com/)
 -   [My glass instagram](https://www.instagram.com/stresslessglass/)
 -   [ My mushroom instagram](https://www.instagram.com/good_morning_mushrooms/)
