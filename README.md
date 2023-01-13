@@ -2,7 +2,7 @@
 
 ### Welcome to my github! 👋😎💻
 
-I'm normally blowing glass but currently am enjoying a life pivot into learning web development after 25yrs of making a living at being an an artist. I'm currently studying at Alchemy Code Lab working on full stack web development. Being self employed for 25 yrs gives me perspective on big picture concerns anywhere from branding/ marketing to systems/ efficiency, to customer service and how things work in the art world. Working on finishing up school and will be looking for web dev work by April! Please reach out with any comments or questions.
+I'm normally blowing glass but currently am enjoying a life pivot into learning web development after 25yrs of making a living at being an an artist. I'm currently studying at Alchemy Code Lab working on full stack web development. Working on finishing up school and will be looking for web dev work by April! Please reach out with any comments or questions.
 
 Email me at kevin@kevinnail.com
 
