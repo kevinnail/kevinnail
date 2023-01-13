@@ -8,9 +8,9 @@ Email me at kevin@kevinnail.com
 
 ### My tech stack:
 
-Javascript | HTML | CSS | JSON | Node | PostgreSQL | JEST | VBA
-GitHub | Supabase | Netlify | VS Code | Slack | Beekeeper Studio | MS Excel
-Communication | Web Design | Adaptability
+Javascript | HTML | CSS | JSON | Node | PostgreSQL | JEST | VBA |
+GitHub | Supabase | Netlify | VS Code | Slack | Beekeeper Studio | MS Excel |
+Communication | Web Design | Adaptability |
 
 ### About Me
 
