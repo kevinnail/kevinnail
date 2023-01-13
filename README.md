@@ -6,6 +6,14 @@ I'm normally blowing glass but currently am enjoying a life pivot into learning 
 
 Email me at kevin@kevinnail.com
 
+### My tech stack:
+
+Javascript | HTML | CSS | JSON | Node | PostgreSQL | JEST | VBA
+GitHub | Supabase | Netlify | VS Code | Slack | Beekeeper Studio | MS Excel
+Communication | Web Design | Adaptability
+
+### About Me
+
 I am into and do a lot of stuff- check out my online world:
 
 -   [My Linkedin](https://www.linkedin.com/in/kevinnail/)
@@ -13,18 +21,3 @@ I am into and do a lot of stuff- check out my online world:
 -   [My glass instagram](https://www.instagram.com/stresslessglass/)
 -   [ My mushroom instagram](https://www.instagram.com/good_morning_mushrooms/)
 -   [ My music instagram](https://www.instagram.com/kevinnail_music/)
-
-   <!--
-    **kevinnail/kevinnail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--   🔭 I’m currently working on ...
--   🌱 I’m currently learning ...
--   👯 I’m looking to collaborate on ...
--   🤔 I’m looking for help with ...
--   💬 Ask me about ...
--   📫 How to reach me: ...
--   😄 Pronouns: ...
--   ⚡ Fun fact: ...
-    -->
