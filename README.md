@@ -16,8 +16,8 @@ Communication | Web Design | Adaptability
 
 I am into and do a lot of stuff- check out my online world:
 
--   [My Linkedin](https://www.linkedin.com/in/kevinnail/)
--   [kevinnail.com](https://www.kevinnail.com/)
--   [My glass instagram](https://www.instagram.com/stresslessglass/)
--   [ My mushroom instagram](https://www.instagram.com/good_morning_mushrooms/)
--   [ My music instagram](https://www.instagram.com/kevinnail_music/)
+<img src="ico2.ico" width="25px"/> [kevinnail.com](https://www.kevinnail.com/) <br>
+<img src="slg.jpg" width="25px"/> [Stress Less Glass](https://www.instagram.com/stresslessglass/) <br>
+<img src="gm.jpg" width="25px"/> [ Good Morning Mushrooms](https://www.instagram.com/good_morning_mushrooms/)<br>
+<img src="ig.png" width="25px"/> [My Music](https://www.instagram.com/kevinnail_music/)<br>
+<img src="li.png" width="25px"/> [My LinkedIn](https://www.linkedin.com/in/kevinnail/) <br>
