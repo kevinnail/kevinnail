@@ -2,15 +2,15 @@
 
 ### Welcome to my github! 👋😎💻
 
-I'm normally blowing glass but currently am enjoying a life pivot into learning web development after 25yrs of making a living at being an an artist. I'm currently studying at Alchemy Code Lab working on full stack web development. Working on finishing up school and will be looking for web dev work by April! Please reach out with any comments or questions.
+I'm normally blowing glass and have been a self employed artist for 25 yrs but currently am enjoying a life pivot into studying full stack web development at [Alchemy Code Lab](https://www.alchemycodelab.com/). I'll be working on finishing up school in the coming months and will be looking for web dev work by April! Please reach out with any comments or questions.
 
 Email me at kevin@kevinnail.com
 
 ### My tech stack:
 
-Javascript | HTML | CSS | JSON | Node | PostgreSQL | JEST | VBA
-GitHub | Supabase | Netlify | VS Code | Slack | Beekeeper Studio | MS Excel
-Communication | Web Design | Adaptability
+Javascript | HTML | CSS | JSON | Node | PostgreSQL | JEST | VBA | <br />
+GitHub | Supabase | Netlify | VS Code | Slack | Beekeeper Studio | MS Excel |<br />
+Communication | Web Design | Adaptability |
 
 ### About Me
 
