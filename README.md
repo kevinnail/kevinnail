@@ -15,7 +15,8 @@ Communication | Web Design | Adaptability |
 ### About Me
 
 I am into and do a lot of stuff- check out my online world:
-![Waves animation](https://github.com/kevinnail/kevinnail/blob/output/waves.svg)
+![Waves animation](https://github.com/kevinnail/kevinnail/blob/output/waves.svg) <br>
+
 <img src="ico2.ico" width="25px"/> [kevinnail.com](https://www.kevinnail.com/) <br>
 <img src="slg.jpg" width="25px"/> [Stress Less Glass](https://www.instagram.com/stresslessglass/) <br>
 <img src="gm.jpg" width="25px"/> [ Good Morning Mushrooms](https://www.instagram.com/good_morning_mushrooms/)<br>
