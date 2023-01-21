@@ -6,7 +6,7 @@ I'm normally blowing glass and have been a self employed artist for 25 yrs but c
 
 Email me at kevin@kevinnail.com
 
-### My tech stack:
+### My tools and tech stack:
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
@@ -19,9 +19,8 @@ Email me at kevin@kevinnail.com
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"alt="git" width="35"height="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"alt="slack"width="35"height="35"/>
 <img src="https://ia902906.us.archive.org/14/items/github.com-beekeeper-studio-beekeeper-studio_-_2020-05-31_21-10-07/cover.jpg" alt="slack" width="35" height="35"/>
-<img src="https://vectorified.com/image/gimp-vector-32.png" alt="gimp" width="35" height="35" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"alt="react"width="35"height="35"/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"alt="react"width="35"height="35"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="35" height="35"/><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"alt="npm" width="35" height="35" />
 <img src="https://img.icons8.com/officel/2x/express-js.png" alt="express" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"  alt="jest"  width="35"  height="35"/>
@@ -31,6 +30,7 @@ Email me at kevin@kevinnail.com
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"alt="postgresql"width="35"height="35"/>
 <img src="https://static.viget.com/Whimsical.png?mtime=20190204094008&focal=none" alt="postgresql"width="35"height="35"/>
 <img src="https://cdn-1.webcatalog.io/catalog/miro/miro-icon.png" alt="postgresql"width="35"height="35"/>
+<img src="https://vectorified.com/image/gimp-vector-32.png" alt="gimp" width="35" height="35" />
 <img src="https://img2.freepng.fr/20180712/fct/kisspng-visual-basic-for-applications-microsoft-excel-macr-viber-logo-5b47b096a9bdb7.4881573615314249186953.jpg"alt="vba"width="35"height="35"/>
 </p>
 
