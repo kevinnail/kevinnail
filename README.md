@@ -5,7 +5,9 @@
 I'm normally blowing glass and have been a self employed artist for 25 yrs but currently am enjoying a life pivot into studying full stack web development at [Alchemy Code Lab](https://www.alchemycodelab.com/). I'll be working on finishing up school in the coming months and will be looking for web dev work by April! Please reach out with any comments or questions.
 
 Email me at kevin@kevinnail.com
-
+<br>
+<br>
+<br>
 
 <h2>My tools and tech stack so far in this journey:</h2>
 <p align="left">
