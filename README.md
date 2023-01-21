@@ -29,7 +29,7 @@ Email me at kevin@kevinnail.com
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s---1zZlXx3--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/1968/c0dbe341-1d94-4192-a93b-921519678894.png"alt="dev"width="35"height="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"alt="postgresql"width="35"height="35"/>
 <img src="https://img2.freepng.fr/20180712/fct/kisspng-visual-basic-for-applications-microsoft-excel-macr-viber-logo-5b47b096a9bdb7.4881573615314249186953.jpg"alt="vba"width="35"height="35"/>
-<img src="https://www.indiemakers.tools/media/images/whimsical.jpg" alt="postgresql"width="35"height="35"/>
+<img src="https://static.viget.com/Whimsical.png?mtime=20190204094008&focal=none" alt="postgresql"width="35"height="35"/>
 <img src="https://cdn-1.webcatalog.io/catalog/miro/miro-icon.png" alt="postgresql"width="35"height="35"/>
 </p>
 
