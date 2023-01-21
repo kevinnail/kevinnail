@@ -35,6 +35,7 @@ width="35"height="35"/>
 ### About Me
 
 I am into and do a lot of stuff- check out my online world:<br><br>
+
 <img src="ico2.ico" width="35px"/> [kevinnail.com](https://www.kevinnail.com/) <br>
 <img src="slg.jpg" width="35px"/> [Stress Less Glass](https://www.instagram.com/stresslessglass/) <br>
 <img src="gm.jpg" width="35px"/> [ Good Morning Mushrooms](https://www.instagram.com/good_morning_mushrooms/)<br>
