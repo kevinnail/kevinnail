@@ -45,7 +45,7 @@ I am into and do a lot of stuff- check out my online world:</p><br>
 
 kevinnail.com | Stress Less Glass | Good Morning Mushrooms | My Music | My LinkedIn
 --- | --- | --- | --- | --- |
-|<br><p align="center"><a href="https://www.kevinnail.com/"><img src="ico2.ico" width="40px"/></a></p>|<br><p align="center"><a href="https://www.instagram.com/stresslessglass/"><img src="slg.jpg" width="40px"/></a></p>|<br><p align="center"><a href="https://www.instagram.com/good_morning_mushrooms/"><img src="gm.jpg" width="40px"/></a></p>|<br><p align="center"><a href="https://www.instagram.com/kevinnail_music/"><img src="ig.png" width="40px"/></a></p>|<br><p align="center"><a href="https://www.linkedin.com/in/kevinnail/"><img src="li.png" width="40px"/></a></p>
+|<br><p align="center"><a href="https://www.kevinnail.com/"><img src="ico2.ico" width="40px"/></a></p>|<br><p align="center"><a href="https://www.instagram.com/stresslessglass/"><img src="slg.jpg" width="40px"/></a></p>|<br><p align="center"><a href="https://www.instagram.com/good_morning_mushrooms/"><img src="gm.jpg" width="40px"/></a></p>|<br><p align="center"><a href="https://www.instagram.com/kevinnail_music/"><img src="ig.png" width="45px"/></a></p>|<br><p align="center"><a href="https://www.linkedin.com/in/kevinnail/"><img src="li.png" width="60px"/></a></p>
 <br>
 <hr>
 
