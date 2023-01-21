@@ -34,6 +34,7 @@ Email me at kevin@kevinnail.com
 <a href="https://www.gimp.org/docs/"><img src="https://vectorified.com/image/gimp-vector-32.png" alt="gimp" width="35" height="35" /></a>
 <a href="https://www.canva.com/help/about-canva-docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva"width="35"height="35"/></a>
 <a href="https://learn.microsoft.com/en-us/office/vba/api/overview/excel"><img src="https://img2.freepng.fr/20180712/fct/kisspng-visual-basic-for-applications-microsoft-excel-macr-viber-logo-5b47b096a9bdb7.4881573615314249186953.jpg"alt="vba"width="35"height="35"/></a>
+<a href="https://www.coreftp.com/doc/"><img src="https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/256/Core-FTP-icon.png" alt="core-ftp" width="40" height="40"/></a>
 </p><br>
 
 ## About Me
