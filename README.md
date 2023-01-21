@@ -38,9 +38,9 @@ Email me at kevin@kevinnail.com
 
 I am into and do a lot of stuff- check out my online world:<br><br>
 
-<img src="ico2.ico" width="35px"/> [kevinnail.com](https://www.kevinnail.com/) <br>
-<img src="slg.jpg" width="35px"/> [Stress Less Glass](https://www.instagram.com/stresslessglass/) <br>
-<img src="gm.jpg" width="35px"/> [ Good Morning Mushrooms](https://www.instagram.com/good_morning_mushrooms/)<br>
-<img src="ig.png" width="35px"/> [My Music](https://www.instagram.com/kevinnail_music/)<br>
-<img src="li.png" width="35px"/> [My LinkedIn](https://www.linkedin.com/in/kevinnail/) <br>
+<img src="ico2.ico" width="35px"/> - [kevinnail.com](https://www.kevinnail.com/) <br>
+<img src="slg.jpg" width="35px"/> - [Stress Less Glass](https://www.instagram.com/stresslessglass/) <br>
+<img src="gm.jpg" width="35px"/> - [ Good Morning Mushrooms](https://www.instagram.com/good_morning_mushrooms/)<br>
+<img src="ig.png" width="35px"/> - [My Music](https://www.instagram.com/kevinnail_music/)<br>
+<img src="li.png" width="35px"/> -[My LinkedIn](https://www.linkedin.com/in/kevinnail/) <br>
 ![Snake animation](https://github.com/kevinnail/kevinnail/blob/output/github-contribution-grid-snake.svg)
