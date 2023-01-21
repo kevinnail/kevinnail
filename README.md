@@ -22,3 +22,4 @@ I am into and do a lot of stuff- check out my online world:
 <img src="ig.png" width="25px"/> [My Music](https://www.instagram.com/kevinnail_music/)<br>
 <img src="li.png" width="25px"/> [My LinkedIn](https://www.linkedin.com/in/kevinnail/) <br>
 ![Snake animation](https://github.com/kevinnail/kevinnail/blob/output/github-contribution-grid-snake.svg)
+![Waves animation](https://github.com/kevinnail/kevinnail/blob/output/waves.svg)
