@@ -11,15 +11,12 @@ Email me at kevin@kevinnail.com
 Javascript | HTML | CSS | JSON | Node | PostgreSQL | JEST | VBA | <br />
 GitHub | Supabase | Netlify | VS Code | Slack | Beekeeper Studio | MS Excel |<br />
 Communication | Web Design | Adaptability |
+
+<html>
 <p>
         <h2>🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
-        <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-            alt="html5"
-            width="45"
-            height="45"
-        />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"s />
 
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
@@ -137,6 +134,7 @@ Communication | Web Design | Adaptability |
             height="45"
         />
 </p>
+</html>
 ### About Me
 
 I am into and do a lot of stuff- check out my online world:<br><br>
