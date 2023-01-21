@@ -25,8 +25,9 @@ Email me at kevin@kevinnail.com
 <a href="https://docs.npmjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"alt="npm" width="35" height="35" /></a><br/>
 <a href="https://expressjs.com/"><img src="https://img.icons8.com/officel/2x/express-js.png" alt="express" width="35" height="35"/></a>
 <a href="https://jestjs.io/docs/getting-started"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"  alt="jest"  width="35"  height="35"/></a>
-<a href="https://devcenter.heroku.com/categories/reference"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"alt="heroku"width="35"height="35"/></a>
+<a href="https://www.coreftp.com/doc/"><img src="https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/256/Core-FTP-icon.png" alt="core-ftp" width="40" height="40"/></a>
 <a href="https://docs.netlify.com/"><img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png"alt="netlify"width="35"height="35" /></a>
+<a href="https://devcenter.heroku.com/categories/reference"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"alt="heroku"width="35"height="35"/></a>
 <a href="https://supabase.com/docs"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s---1zZlXx3--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/1968/c0dbe341-1d94-4192-a93b-921519678894.png"alt="supabase" width="35"height="35" /></a>
 <a href="https://www.postgresql.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"alt="postgresql"width="35"height="35"/></a>
 <a href="https://whimsical.com/docs"><img src="https://static.viget.com/Whimsical.png?mtime=20190204094008&focal=none" alt="whimsical"width="35"height="35"/></a>
@@ -34,7 +35,7 @@ Email me at kevin@kevinnail.com
 <a href="https://www.gimp.org/docs/"><img src="https://vectorified.com/image/gimp-vector-32.png" alt="gimp" width="35" height="35" /></a>
 <a href="https://www.canva.com/help/about-canva-docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva"width="35"height="35"/></a>
 <a href="https://learn.microsoft.com/en-us/office/vba/api/overview/excel"><img src="https://img2.freepng.fr/20180712/fct/kisspng-visual-basic-for-applications-microsoft-excel-macr-viber-logo-5b47b096a9bdb7.4881573615314249186953.jpg"alt="vba"width="35"height="35"/></a>
-<a href="https://www.coreftp.com/doc/"><img src="https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/256/Core-FTP-icon.png" alt="core-ftp" width="40" height="40"/></a>
+
 </p><br>
 
 ## About Me
