@@ -18,8 +18,8 @@ Email me at kevin@kevinnail.com
 <img src="https://gallery.kissclipart.com/20190908/veq/kissclipart-github-icon-logo-icon-media-icon-14f73a17f7bbeb1c.jpg"  alt="github" width="35"  height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"alt="git" width="35"height="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"alt="slack"width="35"height="35"/>
-<img src="https://ia902906.us.archive.org/14/items/github.com-beekeeper-studio-beekeeper-studio_-_2020-05-31_21-10-07/cover.jpg" alt="slack" width="35" height="35"/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"alt="react"width="35"height="35"/>
+<img src="https://ia902906.us.archive.org/14/items/github.com-beekeeper-studio-beekeeper-studio_-_2020-05-31_21-10-07/cover.jpg" alt="slack" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"alt="react"width="35"height="35"/><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"alt="npm" width="35" height="35" />
 <img src="https://img.icons8.com/officel/2x/express-js.png" alt="express" width="35" height="35"/>
