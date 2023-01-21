@@ -13,15 +13,15 @@ Email me at kevin@kevinnail.com
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></a>
 <a href="https://reactjs.org/docs/getting-started.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"alt="react"width="35"height="35"/> </a>
-g<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="35" height="35"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="35" height="35"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="35" height="35"/></a>
 <a href="https://learn.microsoft.com/en-us/office/vba/api/overview/excel"><img src="https://img2.freepng.fr/20180712/fct/kisspng-visual-basic-for-applications-microsoft-excel-macr-viber-logo-5b47b096a9bdb7.4881573615314249186953.jpg"alt="vba"width="35"height="35"/></a>
 <a href="https://code.visualstudio.com/Docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode"  width="35" height="35"/></a>
 <a href="https://gitforwindows.org/"><img src="https://mccarter.gallerycdn.vsassets.io/extensions/mccarter/start-git-bash/1.2.1/1499505567572/Microsoft.VisualStudio.Services.Icons.Default" alt="git-bash" width="35" height="35"/></a>
 <a href="https://docs.github.com/en"><img src="https://gallery.kissclipart.com/20190908/veq/kissclipart-github-icon-logo-icon-media-icon-14f73a17f7bbeb1c.jpg"  alt="github" width="35"  height="35"/></a>
 <a href="https://git-scm.com/doc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"alt="git" width="35"height="35" /></a>
-<a href="https://nodejs.org/en/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="35" height="35"/></a><br/>
-<a href="https://docs.npmjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"alt="npm" width="35" height="35" /></a>
+<a href="https://nodejs.org/en/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="35" height="35"/></a>
+<a href="https://docs.npmjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"alt="npm" width="35" height="35" /></a><br/>
 <a href="https://expressjs.com/"><img src="https://img.icons8.com/officel/2x/express-js.png" alt="express" width="35" height="35"/></a>
 <a href="https://jestjs.io/docs/getting-started"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"  alt="jest"  width="35"  height="35"/></a>
 <a href="https://www.coreftp.com/doc/"><img src="https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/256/Core-FTP-icon.png" alt="core-ftp" width="40" height="40"/></a>
