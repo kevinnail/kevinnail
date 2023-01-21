@@ -12,6 +12,7 @@ Email me at kevin@kevinnail.com
 <h2>My tools and tech stack so far in this journey:</h2>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></a>
+<a href="https://reactjs.org/docs/getting-started.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"alt="react"width="35"height="35"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="35" height="35"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="35" height="35"/></a>
 <a href="https://learn.microsoft.com/en-us/office/vba/api/overview/excel"><img src="https://img2.freepng.fr/20180712/fct/kisspng-visual-basic-for-applications-microsoft-excel-macr-viber-logo-5b47b096a9bdb7.4881573615314249186953.jpg"alt="vba"width="35"height="35"/></a>
@@ -21,7 +22,6 @@ Email me at kevin@kevinnail.com
 <a href="https://git-scm.com/doc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"alt="git" width="35"height="35" /></a>
 <a href="https://slack.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"alt="slack"width="35"height="35"/></a>
 <a href="https://docs.beekeeperstudio.io/docs/introduction"><img src="https://ia902906.us.archive.org/14/items/github.com-beekeeper-studio-beekeeper-studio_-_2020-05-31_21-10-07/cover.jpg" alt="beekeeper-studio" width="35" height="35"/></a>
-<a href="https://reactjs.org/docs/getting-started.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"alt="react"width="35"height="35"/> </a>
 <a href="https://nodejs.org/en/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="35" height="35"/></a><br/>
 <a href="https://docs.npmjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"alt="npm" width="35" height="35" /></a>
 <a href="https://expressjs.com/"><img src="https://img.icons8.com/officel/2x/express-js.png" alt="express" width="35" height="35"/></a>
