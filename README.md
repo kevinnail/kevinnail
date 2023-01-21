@@ -36,18 +36,15 @@ Email me at kevin@kevinnail.com
 <a href="https://learn.microsoft.com/en-us/office/vba/api/overview/excel"><img src="https://img2.freepng.fr/20180712/fct/kisspng-visual-basic-for-applications-microsoft-excel-macr-viber-logo-5b47b096a9bdb7.4881573615314249186953.jpg"alt="vba"width="35"height="35"/></a>
 </p><br>
 
-
-
-
-
-
 ## About Me
+
 <p align="left">
 I am into and do a lot of stuff- check out my online world:</p><br>
 
-kevinnail.com | Stress Less Glass | Good Morning Mushrooms | My Music | My LinkedIn
---- | --- | --- | --- | --- |
-|<br><p align="center"><a href="https://www.kevinnail.com/"><img src="ico2.ico" width="40px"/></a></p>|<br><p align="center"><a href="https://www.instagram.com/stresslessglass/"><img src="slg.jpg" width="40px"/></a></p>|<br><p align="center"><a href="https://www.instagram.com/good_morning_mushrooms/"><img src="gm.jpg" width="40px"/></a></p>|<br><p align="center"><a href="https://www.instagram.com/kevinnail_music/"><img src="ig.png" width="45px"/></a></p>|<br><p align="center"><a href="https://www.linkedin.com/in/kevinnail/"><img src="li.png" width="60px"/></a></p>
+| kevinnail.com                                                                                             | Stress Less Glass                                                                                                    | Good Morning Mushrooms                                                                                                     | My Music                                                                                                            | My LinkedIn                                                                                                     |
+| --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| <br><p align="center"><a href="https://www.kevinnail.com/"><img src="knc-icon.png" width="40px"/></a></p> | <br><p align="center"><a href="https://www.instagram.com/stresslessglass/"><img src="slg.jpg" width="40px"/></a></p> | <br><p align="center"><a href="https://www.instagram.com/good_morning_mushrooms/"><img src="gm.jpg" width="40px"/></a></p> | <br><p align="center"><a href="https://www.instagram.com/kevinnail_music/"><img src="ig.png" width="45px"/></a></p> | <br><p align="center"><a href="https://www.linkedin.com/in/kevinnail/"><img src="li.png" width="60px"/></a></p> |
+
 <br>
 <hr>
 
