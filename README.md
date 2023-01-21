@@ -18,9 +18,9 @@ Email me at kevin@kevinnail.com
 <a href="https://git-scm.com/doc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"alt="git" width="35"height="35" /></a>
 <a href="https://slack.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"alt="slack"width="35"height="35"/></a>
 <a href="https://docs.beekeeperstudio.io/docs/introduction"><img src="https://ia902906.us.archive.org/14/items/github.com-beekeeper-studio-beekeeper-studio_-_2020-05-31_21-10-07/cover.jpg" alt="beekeeper-studio" width="35" height="35"/></a>
-<a href="https://reactjs.org/docs/getting-started.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"alt="react"width="35"height="35"/> </a><br/>
+<a href="https://reactjs.org/docs/getting-started.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"alt="react"width="35"height="35"/> </a>
 <a href="https://nodejs.org/en/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="35" height="35"/></a>
-<a href="https://docs.npmjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"alt="npm" width="35" height="35" /></a>
+<a href="https://docs.npmjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"alt="npm" width="35" height="35" /></a><br/>
 <a href="https://expressjs.com/"><img src="https://img.icons8.com/officel/2x/express-js.png" alt="express" width="35" height="35"/></a>
 <a href="https://jestjs.io/docs/getting-started"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"  alt="jest"  width="35"  height="35"/></a>
 <a href="https://devcenter.heroku.com/categories/reference"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"alt="heroku"width="35"height="35"/></a>
