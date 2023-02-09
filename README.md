@@ -36,6 +36,7 @@ Email me at kevin@kevinnail.com
 <a href="https://miro.com/"><img src="https://cdn-1.webcatalog.io/catalog/miro/miro-icon.png" alt="miro"width="35"height="35"/></a>
 <a href="https://www.canva.com/help/about-canva-docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva"width="35"height="35"/></a>
 
+(click for docs!)
 </p><br>
 
 ## About Me
