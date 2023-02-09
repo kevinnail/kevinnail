@@ -10,6 +10,7 @@ Email me at kevin@kevinnail.com
 <br>
 
 <h2>My tools and tech stack so far in this journey:</h2>
+(click for docs!)
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></a>
 <a href="https://reactjs.org/docs/getting-started.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"alt="react"width="35"height="35"/> </a>
@@ -36,7 +37,6 @@ Email me at kevin@kevinnail.com
 <a href="https://miro.com/"><img src="https://cdn-1.webcatalog.io/catalog/miro/miro-icon.png" alt="miro"width="35"height="35"/></a>
 <a href="https://www.canva.com/help/about-canva-docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva"width="35"height="35"/></a>
 
-(click for docs!)
 </p><br>
 
 ## About Me
