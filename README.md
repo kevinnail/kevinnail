@@ -23,8 +23,8 @@ Email me at kevin@kevinnail.com
 <a href="https://docs.github.com/en"><img src="https://gallery.kissclipart.com/20190908/veq/kissclipart-github-icon-logo-icon-media-icon-14f73a17f7bbeb1c.jpg"  alt="github" width="35"  height="35"/></a>
 <a href="https://git-scm.com/doc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"alt="git" width="35"height="35" /></a>
 <a href="https://nodejs.org/en/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="35" height="35"/></a>
-<a href="https://expressjs.com/"><img src="https://img.icons8.com/officel/2x/express-js.png" alt="express" width="35" height="35"/></a><br/>
-<a href="https://docs.npmjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"alt="npm" width="35" height="35" /></a>
+<a href="https://expressjs.com/"><img src="https://img.icons8.com/officel/2x/express-js.png" alt="express" width="35" height="35"/></a>
+<a href="https://docs.npmjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"alt="npm" width="35" height="35" /></a><br/>
 <a href="https://jestjs.io/docs/getting-started"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"  alt="jest"  width="35"  height="35"/></a>
 <a href="https://www.coreftp.com/doc/"><img src="https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/256/Core-FTP-icon.png" alt="core-ftp" width="40" height="40"/></a>
 <a href="https://docs.netlify.com/"><img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png"alt="netlify"width="35"height="35" /></a>
@@ -36,7 +36,7 @@ Email me at kevin@kevinnail.com
 <a href="https://whimsical.com/docs"><img src="https://static.viget.com/Whimsical.png?mtime=20190204094008&focal=none" alt="whimsical"width="35"height="35"/></a>
 <a href="https://miro.com/"><img src="https://cdn-1.webcatalog.io/catalog/miro/miro-icon.png" alt="miro"width="35"height="35"/></a>
 <a href="https://www.canva.com/help/about-canva-docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva"width="35"height="35"/></a>
-
+<a href="https://cloudinary.com/documentation"><img src="https://res.cloudinary.com/cloudinary/image/upload/new_cloudinary_logo_square.png" alt="canva"width="35"height="35"/></a>  
 </p><br>
 
 ## About Me
