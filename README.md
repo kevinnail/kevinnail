@@ -51,4 +51,4 @@ I am into and do a lot of stuff- check out my online world:</p><br>
 <br>
 <hr>
 
-![Snake animation](https://github.com/kevinnail/kevinnail/blob/output/github-contribution-grid-snake.svg)
+
