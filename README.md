@@ -37,8 +37,10 @@ Email me at kevin@kevinnail.com
 <a href="https://miro.com/"><img src="https://cdn-1.webcatalog.io/catalog/miro/miro-icon.png" alt="miro"width="35"height="35"/></a>
 <a href="https://www.canva.com/help/about-canva-docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva"width="35"height="35"/></a>
 <a href="https://cloudinary.com/documentation"><img src="https://res.cloudinary.com/cloudinary/image/upload/new_cloudinary_logo_square.png" alt="canva"width="35"height="35"/></a>  
+<a href="https://cloudinary.com/documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="canva"width="35"height="35"/><br/>
+<a href="https://cloudinary.com/documentation"><img src="https://avatars2.githubusercontent.com/u/200210?s=460&v=4" alt="canva"width="35"height="35"/>
+          </a>  
 </p><br>
-
 ## About Me
 
 <p align="left">
