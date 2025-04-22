@@ -2,7 +2,7 @@
 
 # Hello, I'm Kevin.  Welcome to my github! 👋😎💻  
 
-https://avatars2.githubusercontent.com/u/200210?s=460&v=4
+
 I'm normally blowing glass here in beautiful Oregon and have been a self employed artist for 27 yrs but currently am enjoying a life pivot into studying full stack web development.  Back on the horse as you can see in my activity lately (7/29/24)!  Working for many, many months on a project that incorporates AWS Cognito for auth, the Stripe API for collecting subscriptions, and Cloudinary for storing users' images, encryption of sensitive data to the database, tons of business logic to help artists account for not only sales but types of sales and goal setting- I built the tool for myself and my glass business, now working on bringing the technogy to the masses.  I've worked on it with 2 friends for about 4-5 months together and then another 5-6 months by myself.  It's an enormous and exciting challenge and we've gotten many of the main parts working together but still a lot of work to go.  For me it was only possible after learning Cloudinary technology for my own <a href="https://stresslessglass.kevinnail.com/main-gallery">website</a> uploads for my glass which was sorely needed after using a basic cPanel using ftp, etc., for years.   Find me on <a href="https://www.instagram.com/stresslessglass">Instagram</a> and please give me a follow over there and hit me up with any questions or comments or any coding related nerd stuff!  
 
 Email me at kevin@kevinnail.com
