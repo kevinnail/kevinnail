@@ -2,7 +2,6 @@
 
 # Hello, I'm Kevin.  Welcome to my github! 👋😎💻  
 
-
 Hey, I'm Kevin- normally you'll find me blowing glass in beautiful Oregon, where I've been a self-employed artist for the last 27 years. Lately though, I’ve been on a major life pivot into full-stack web development, and I just launched a project I’ve been working on for nearly two years.
 
 This project is a subscription-based platform built for artists (originally for my own glass business), featuring:
@@ -11,13 +10,14 @@ This project is a subscription-based platform built for artists (originally for 
 - S3 for image storage
 - Encrypted business/customer data
 - Inventory tracking, production goal setting, and sales analysis
-- See the About & Tech Stack pages for more details [At The Fire](https://www.atthefire.com)
+- See the About & Tech Stack pages for more details, code is private but I'm happy to walk through it on request [At The Fire](https://www.atthefire.com)
 
 What started as a tool for my own workflow has become a full-blown platform, now in beta testing. I built the core of it with two friends over 4–5 months, then continued solo for another 1.5 years.
 
-I started this whole journey by learning Cloudinary image handling for my [glass art website](https://stresslessglass.kevinnail.com/main-gallery), after years of manually uploading via cPanel and FTP- and I haven’t looked back.
+I started this whole journey by learning Cloudinary image handling (since moved on to AWS S3) for my [glass art website](https://stresslessglass.kevinnail.com/main-gallery), after years of manually uploading via cPanel and FTP- and I haven’t looked back.
 
 Follow my glass work on [Instagram](https://www.instagram.com/stresslessglass), and feel free to reach out with any questions or nerdy code stuff. Always down to talk shop.
+
 
 
 Email me at kevin@kevinnail.com
