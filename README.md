@@ -3,7 +3,22 @@
 # Hello, I'm Kevin.  Welcome to my github! 👋😎💻  
 
 
-I'm normally blowing glass here in beautiful Oregon and have been a self employed artist for 27 yrs but currently am enjoying a life pivot into studying full stack web development.  Back on the horse as you can see in my activity lately (7/29/24)!  Working for many, many months on a project that incorporates AWS Cognito for auth, the Stripe API for collecting subscriptions, and Cloudinary for storing users' images, encryption of sensitive data to the database, tons of business logic to help artists account for not only sales but types of sales and goal setting- I built the tool for myself and my glass business, now working on bringing the technogy to the masses.  I've worked on it with 2 friends for about 4-5 months together and then another 5-6 months by myself.  It's an enormous and exciting challenge and we've gotten many of the main parts working together but still a lot of work to go.  For me it was only possible after learning Cloudinary technology for my own <a href="https://stresslessglass.kevinnail.com/main-gallery">website</a> uploads for my glass which was sorely needed after using a basic cPanel using ftp, etc., for years.   Find me on <a href="https://www.instagram.com/stresslessglass">Instagram</a> and please give me a follow over there and hit me up with any questions or comments or any coding related nerd stuff!  
+Hey, I'm Kevin- normally you'll find me blowing glass in beautiful Oregon, where I've been a self-employed artist for the last 27 years. Lately though, I’ve been on a major life pivot into full-stack web development, and I just launched a project I’ve been working on for nearly two years.
+
+This project is a subscription-based platform built for artists (originally for my own glass business), featuring:
+- AWS Cognito for authentication
+- Stripe for subscription billing
+- S3 for image storage
+- Encrypted business/customer data
+- Inventory tracking, production goal setting, and sales analysis
+- See the About & Tech Stack pages for more details [At The Fire](https://www.atthefire.com)
+
+What started as a tool for my own workflow has become a full-blown platform, now in beta testing. I built the core of it with two friends over 4–5 months, then continued solo for another 1.5 years.
+
+I started this whole journey by learning Cloudinary image handling for my [glass art website](https://stresslessglass.kevinnail.com/main-gallery), after years of manually uploading via cPanel and FTP- and I haven’t looked back.
+
+Follow my glass work on [Instagram](https://www.instagram.com/stresslessglass), and feel free to reach out with any questions or nerdy code stuff. Always down to talk shop.
+
 
 Email me at kevin@kevinnail.com
 <br>
