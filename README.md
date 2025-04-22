@@ -12,11 +12,12 @@ This project is a subscription-based platform built for artists (originally for 
 - Inventory tracking, production goal setting, and sales analysis
 - See the About & Tech Stack pages for more details, code is private but I'm happy to walk through it on request [At The Fire](https://www.atthefire.com)
 
-What started as a tool for my own workflow has become a full-blown platform, now in beta testing. I built the core of it with two friends over 4–5 months, then continued solo for another 1.5 years.
+What started as a tool for my own workflow has become a full-blown platform, now in beta testing. I built the core of it with two friends over 4-5 months, then continued solo for another 1.5 years.
 
-I started this whole journey by learning Cloudinary image handling (since moved on to AWS S3) for my [glass art website](https://stresslessglass.kevinnail.com/main-gallery), after years of manually uploading via cPanel and FTP- and I haven’t looked back.
+I started this whole journey by learning Cloudinary image handling (since moved on to AWS S3) for my glass art website [Stress Less Glass](https://stresslessglass.kevinnail.com/main-gallery), after years of manually uploading via cPanel and FTP- and I haven’t looked back.
 
 Follow my glass work on [Instagram](https://www.instagram.com/stresslessglass), and feel free to reach out with any questions or nerdy code stuff. Always down to talk shop.
+
 
 
 
