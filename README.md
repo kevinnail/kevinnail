@@ -26,7 +26,7 @@ At The Fire is a subscription-based platform built for artists (originally for m
 
 What started as a tool for my own workflow has become a full-blown platform, now in beta testing. I built the core of it with two friends over 4-5 months, then continued solo for another 2 years.
 
-I started this whole journey by learning Cloudinary image handling (since moved on to AWS S3) for my glass art website [Stress Less Glass](https://stresslessglass.kevinnail.com/main-gallery), after years of manually uploading via cPanel and FTP- and I haven’t looked back.
+I started this whole journey by learning Cloudinary image handling (since moved on to AWS S3) for my glass art website [Stress Less Glass](https://stresslessglass.kevinnail.com), after years of manually uploading via cPanel and FTP- and I haven’t looked back.
 
 
 Follow my glass work on [Instagram](https://www.instagram.com/stresslessglass), and feel free to reach out with any questions or nerdy code stuff. Always down to talk shop.
