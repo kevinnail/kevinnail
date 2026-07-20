@@ -2,8 +2,22 @@
 
 # Hello, I'm Kevin.  Welcome to my github! 👋😎💻  
 
-Hey, I'm Kevin- normally you'll find me blowing glass in beautiful Oregon, where I've been a self-employed artist for the last 28 years. Lately though, I’ve been on a major life pivot into full-stack web development, and I  have been crushing out code for the last few years.   I have one flagship project, At The Fire- and more recently I've been delving into the world of Ollama and local LLM's building a RAG chatbot code assistant and AI agent working with an MCP server.  Check my pinned repos and try it out- it's all local, if you have 16g RAM you're good to go. 
+Hey, I'm Kevin- normally you'll find me blowing glass in beautiful Oregon, where I've been a self-employed artist for the last 29 yrs.  A few years back I pivoted into full stack web development attending a bootcamp and have been crushing out projects ever since.  I'm most excited about my latest, Crop Planner, a published iOS app in the Apple App Store.  Beyond that, I have one flagship project, At The Fire, which is an entire platform for my glass community. And on the AI front, I've been delving into the world of Ollama and local LLM's built a RAG chatbot code assistant and AI agent working with an MCP server.  Check my pinned repos and try it out- it's all local, if you have 16g RAM you're good to go. 
 
+---
+### Crop Planner
+
+Crop Planner is an iOS app I translated from a VBA/Excel workbook I'd used to plan my own crop rotations for years — now a native React Native/Expo app, live on the App Store.
+
+- Custom 4-panel virtualized grid (frozen headers, 150+ week view) rendering thousands of cells at 60fps
+- Offline-first: SQLite local store, all state through Zustand
+- Currently shipping opt-in cloud backup/sync — Postgres backend, S3 image storage, JWT auth — so garden data survives a lost phone
+- In-app purchase for the sync tier landing in the next few days
+
+Available in the [Apple App Store](https://apps.apple.com/us/app/crop-planner/id6762229774)
+
+---
+### AI Assitant/ RAG/ MCP
 
 The RAG Code Assistant & Job Search/ Career Coach Chatbot and AI Agent w/ an MCP Server
 - Runs Ollama via Ubuntu/ WSL2 all local LLM calls, no internet needed
@@ -15,6 +29,9 @@ The RAG Code Assistant & Job Search/ Career Coach Chatbot and AI Agent w/ an MCP
 
 This started out as a proof of concept- see an LLM run locally sounded like magic.  Then came chatting.  Then context.   Then agentic capabilities so the Gmail sync and Google Calendar event creation.  Then MCP to get it to industry standard specs.  And now RAG with intellgent chunking by paragraph>sentence>word>token for text and by function and class with code.     Seeing semantic search connect to the memories that then are presented to the LLM which can then use them, and be more informed than even the big private models is my latest magic and fun with coding.   Try it out!  It's all local so there's no working website- you can check out the visual demo here,  it has no working model but spits out responses so you can see it stream and format, etc.
 
+---
+
+### At The Fire
 
 At The Fire is a subscription-based platform built for artists (originally for my own glass business), featuring:
 - AWS Cognito for authentication
@@ -25,6 +42,8 @@ At The Fire is a subscription-based platform built for artists (originally for m
 - See the About & Tech Stack pages for more details, code is private but I'm happy to walk through it on request [At The Fire](https://www.atthefire.com)
 
 What started as a tool for my own workflow has become a full-blown platform, now in beta testing. I built the core of it with two friends over 4-5 months, then continued solo for another 2 years.
+
+---
 
 I started this whole journey by learning Cloudinary image handling (since moved on to AWS S3) for my glass art website [Stress Less Glass](https://stresslessglass.kevinnail.com), after years of manually uploading via cPanel and FTP- and I haven’t looked back.
 
